@@ -1,12 +1,12 @@
-# AI-symptom-checker
-# 💕 AI-Symptom-Checker
+# AI-Healthcare-Assistant
+# 💕 AI-Healthcare-Assistant
 <div id="top" align="center">
   
   </div>
 <h3 align="center">AI-Symptom-Checker</h3>
   
   <p align="center">
-This is the official AI-Symptom-Checker documentation <br/>
+This is the official AI-Healthcare-Assistant documentation <br/>
   
   
 
