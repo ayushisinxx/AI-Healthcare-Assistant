@@ -3,7 +3,7 @@
 <div id="top" align="center">
   
   </div>
-<h3 align="center">AI-Symptom-Checker</h3>
+<h3 align="center">AI-Healthcare-Assistant</h3>
   
   <p align="center">
 This is the official AI-Healthcare-Assistant documentation <br/>
