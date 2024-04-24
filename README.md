@@ -1,28 +1,12 @@
 # AI-symptom-checker
 # 💕 AI-HealthCare-Assistant
 <div id="top" align="center">
-
-  <a href="https://github.com/ahlem-phantom/AI-HealthCare-Assistant/issues">
-    <img src="https://img.shields.io/github/issues/ahlem-phantom/AI-HealthCare-Assistant.svg?style=for-the-badge"/>
-  </a>
-
-   <a href="https://github.com/ahlem-phantom/AI-HealthCare-Assistant/network/members">
-      <img src="https://img.shields.io/github/forks/ahlem-phantom/AI-HealthCare-Assistant.svg?style=for-the-badge"/>
-    </a>
-   <a href="https://www.youtube.com/watch?v=Kxqa83Us1m4">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  
   </div>
 <h3 align="center">AI-HealthCare-Assistant</h3>
   
   <p align="center">
 This is the official AI-HealthCare-Assistant documentation <br/>
-  </p>
- <a href="https://www.youtube.com/watch?v=Kxqa83Us1m4&t=1s">
-    <img src="https://img.youtube.com/vi/Kxqa83Us1m4/0.jpg"/>
-  </a>
- </div>
-
   
   
 
